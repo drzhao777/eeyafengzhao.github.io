@@ -6,24 +6,24 @@
 # =============================================================================
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "张明远 | Mingyuan Zhang"  # [修改] 你的名字
+locale                   : "zh-EN"
+title                    : "Yafeng Zhao"  # [修改] 你的名字
 title_separator          : "-"
-name                     : &name "张明远"  # [修改] 你的名字
+name                     : &name "Yafeng Zhao"  # [修改] 你的名字
 description              : &description "Ph.D. Candidate in Electrical Engineering"  # [修改] 一句话描述
-url                      : https://yourname.github.io  # [修改] 改为你的GitHub用户名
+url                      : https://eeyafengzhao.github.io  # [修改] 改为你的GitHub用户名
 baseurl                  : ""
-repository               : "yourname/yourname.github.io"  # [修改] 你的仓库地址
+repository               : "drzhao777/eeyafengzhao.github.io"  # [修改] 你的仓库地址
 
 # Site Author - 个人信息（显示在侧边栏）
 author:
-  name             : "张明远"  # [修改]
+  name             : "Yafeng Zhao"  # [修改]
   avatar           : "profile.png"  # 照片文件名，放在 images/ 文件夹
-  bio              : "电气工程博士研究生"  # [修改] 简短介绍
-  location         : "北京, 中国"  # [修改]
-  employer         : "清华大学"  # [修改]
+  bio              : "Ph.D. in Electrical Engineering"  # [修改] 简短介绍
+  location         : "Hong Kong"  # [修改]
+  employer         : "The Hong Kong Polytechnic University"  # [修改]
   uri              :
-  email            : "zhangmy@tsinghua.edu.cn"  # [修改]
+  email            : "yxz1243.zhao@connect.polyu.hk"  # [修改]
   
   # 学术链接 - 填写你的链接，不需要的留空即可
   researchgate     :  # 例如: "Mingyuan-Zhang"
@@ -164,7 +164,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai  # [修改] 你的时区
+timezone: Asia/Hong Kong  # [修改] 你的时区
 
 # Plugins
 plugins:
